@@ -51,7 +51,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
 
     button.addEventListener('click', function(e) {
-        e.preventDefault();
+//         e.preventDefault();
         checkPassword();
     });
 
